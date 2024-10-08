@@ -60,6 +60,10 @@
     <a title="rahulkardile321@gmail.com" href="mailto:rahulkardile321@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rahulkardile321@gmail.com" />
     </a>
+    <a title="twitter" href="https://x.com/rahul_kardile77">
+        <img align="center" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white%22%20alt=%22rahul_kardile77%22" />
+    </a>
+    
 </p>
 
 <br />
