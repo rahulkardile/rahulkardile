@@ -2,7 +2,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Omkar Sathe
+    I'm Rahul Kardile
 </h1>
 
 <h3 align="center">A passionate Full Stack Web Developer based in Pune, Maharashtra, India</h3>
@@ -14,8 +14,6 @@
 - ❓ Ask me about anything related to MERN, Java, AWS, DevOps and related technologies
 
 - ⚡ Fun fact: I use tabs over spaces
-
-<br/>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
