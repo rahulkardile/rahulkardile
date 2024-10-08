@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rahul Kardile</h1>
 <h3 align="center">A passionate Full Stack Web Developer based in Pune, Maharashtra, India</h3>
 
-- 🔭 I’m currently working on [StoryIn](https://storyin.onrender.com)  
-  
+- 🔭 I’m currently working on [StoryIn](https://storyin.onrender.com)
 
-- 🌱 I’m currently learning DevOps and Java  
-  
+- 🌱 I’m currently learning DevOps and Java
 
-- ❓ Ask me about anything related to MERN, Java, AWS, DevOps and related technologies  
-  
+- ❓ Ask me about anything related to MERN, Java, AWS, DevOps and related technologies
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
-<br/>  
+<br/>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
 
 <p>
-      <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
@@ -61,11 +57,9 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rahulkardile321@gmail.com" />
     </a>
 </p>
-<br>
 
 <br />
-<h2>My GitHub Stats</h2>
+<h2><i>My GitHub Stats</i></h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkardile&show_icons=true&locale=en&layout=compact" alt="rahulkardile" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkardile&show_icons=true&locale=en" alt="rahulkardile" /></p>
-
