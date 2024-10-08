@@ -46,9 +46,26 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
 </p>
 
-<br />
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/rahull-kardile/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/omkar-sathe-3162601aa/" />
+    </a>
+    <a href="https://rahul-kardile.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://portfolioomkar.netlify.app/" />
+    </a>
+    <a title="rahulkardile321@gmail.com" href="mailto:rahulkardile321@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rahulkardile321@gmail.com" />
+    </a>
+</p>
+<br>
+
 <br />
 <h2>My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkardile&show_icons=true&locale=en&layout=compact" alt="rahulkardile" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkardile&show_icons=true&locale=en" alt="rahulkardile" /></p>
+
