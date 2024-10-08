@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rahul Kardile</h1>
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Omkar Sathe
+</h1>
+
 <h3 align="center">A passionate Full Stack Web Developer based in Pune, Maharashtra, India</h3>
 
 - 🔭 I’m currently working on [StoryIn](https://storyin.onrender.com)
