@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Full Stack Web Developer based in Pune, Maharashtra, India</h3>
 
-- 🔭 I’m currently working on [StoryIn](https://storyin.onrender.com)
+- 🔭 I’m currently working at [Lentra](https://lentra.ai)
 
 - 🌱 I’m currently learning DevOps and Java
 
